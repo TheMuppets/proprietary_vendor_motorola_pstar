@@ -3208,6 +3208,7 @@ cc_prebuilt_library_shared {
                 "libQSEEComAPI",
                 "libion",
                 "libcutils",
+                "libqti-perfd-client",
                 "liblog",
                 "libhardware",
                 "libc++",
