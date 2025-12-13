@@ -181,7 +181,7 @@ PRODUCT_PACKAGES += \
     libvidhance_stabilizer \
     vendor.goodix.hardware.biometrics.fingerprint@3.0 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
-    libdsp_streamer_qvrcam_receiver \
+    vendor_lib_rfsa_adsp_libdsp_streamer_qvrcam_receiver_so \
     android.hardware.biometrics.fingerprint@2.1-goodixservice \
     android.hardware.biometrics.fingerprint@2.1-service-fpc \
     fpc_ident
